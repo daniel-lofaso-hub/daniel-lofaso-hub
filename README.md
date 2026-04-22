@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Daniel LoFaso and I am a TripleTen student studying Software Engineering.
 I was born and raised in New York City, spent some time in Pittsburgh, and currently live in Wilmington, NC.
-So far I have learned HTML and CSS, and I'm currently learning JavaScript.
+So far I have learned HTML, CSS, JavaScript, React, and currently I'm learning Express.
 
 I have spent 20+ years in the restaurant industry and would love to do web-development for restaurants and other small businesses (my wife owns a small business and would love to develop a website for her).
 I would also like to develop a website/mobile app that helps people with allergies and dietary restrictions find restaurants that can accomodate them.
